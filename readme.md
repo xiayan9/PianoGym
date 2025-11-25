@@ -34,7 +34,8 @@ Planned release items:
 
 ### 1. Post-Action PianoGym CPOMDP
 
-![Post-action interaction protocol](figures/Post-action interaction protocol.pdf)
+[Post-action interaction protocol](figures/Post-action%20interaction%20protocol.pdf)
+
 
 > *Figure 1. Post-action interaction loop with music observables and dual fatigue signals in PianoGym.*
 
