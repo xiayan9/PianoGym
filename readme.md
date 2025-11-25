@@ -36,21 +36,10 @@ Planned release items:
 
 [Post-action interaction protocol](figures/Post-action%20interaction%20protocol.pdf)
 
-
-> *Figure 1. Post-action interaction loop with music observables and dual fatigue signals in PianoGym.*
-
----
-
 ### 2. Dual-Timescale Fatigue Safety
 
-![Dual-timescale safety](figures/Dual-timescale safety layer.pdf)
-
-> *Figure 2. Slow Lagrangian average-fatigue control combined with a fast predictive guard over the action library.*
-
----
+[Dual-timescale safety layer](figures/Dual-timescale%20safety%20layer.pdf)
 
 ### 3. PianoMPC Planning over Safe Action Sets
 
-![MPC planning](figures/Model predictive control with receding horizon.pdf)
-
-> *Figure 3. PianoMPC receding-horizon planning using the deterministic model and guard-defined safe action sets.*
+[Model predictive control with receding horizon](figures/Model%20predictive%20control%20with%20receding%20horizon.pdf)
